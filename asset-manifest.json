@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Maquetacion/static/css/main.0ab03ce7.chunk.css",
+    "main.js": "/Maquetacion/static/js/main.6186b793.chunk.js",
+    "main.js.map": "/Maquetacion/static/js/main.6186b793.chunk.js.map",
+    "runtime-main.js": "/Maquetacion/static/js/runtime-main.055dba85.js",
+    "runtime-main.js.map": "/Maquetacion/static/js/runtime-main.055dba85.js.map",
+    "static/js/2.71a1f868.chunk.js": "/Maquetacion/static/js/2.71a1f868.chunk.js",
+    "static/js/2.71a1f868.chunk.js.map": "/Maquetacion/static/js/2.71a1f868.chunk.js.map",
+    "index.html": "/Maquetacion/index.html",
+    "precache-manifest.c8c28087777490495eb3b2f4b08504ed.js": "/Maquetacion/precache-manifest.c8c28087777490495eb3b2f4b08504ed.js",
+    "service-worker.js": "/Maquetacion/service-worker.js",
+    "static/css/main.0ab03ce7.chunk.css.map": "/Maquetacion/static/css/main.0ab03ce7.chunk.css.map",
+    "static/js/2.71a1f868.chunk.js.LICENSE.txt": "/Maquetacion/static/js/2.71a1f868.chunk.js.LICENSE.txt",
+    "static/media/Dexter.png": "/Maquetacion/static/media/Dexter.1823f534.png",
+    "static/media/Didi.png": "/Maquetacion/static/media/Didi.3839a6b0.png",
+    "static/media/Mandark.png": "/Maquetacion/static/media/Mandark.7aa4858d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055dba85.js",
+    "static/js/2.71a1f868.chunk.js",
+    "static/css/main.0ab03ce7.chunk.css",
+    "static/js/main.6186b793.chunk.js"
+  ]
+}
