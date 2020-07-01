@@ -1,0 +1,24 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Asap&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,700&display=swap");
+
+* {
+  margin: 20px;
+}
+.texto {
+  font-family: "Asap", sans-serif;
+  margin: 0em;
+}
+.h {
+  font-weight: bold;
+}
+
+.card {
+  background-color: #ecf0f1;
+  border-radius: 1em;
+  border: none;
+}
+
+.btn {
+  background: #49b9e6;
+  border: none;
+}
