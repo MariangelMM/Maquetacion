@@ -22,3 +22,10 @@
   background: #49b9e6;
   border: none;
 }
+
+.imagen {
+  border-radius: 20%;
+  position: absolute;
+  top: 90px;
+  left: 350px;
+}

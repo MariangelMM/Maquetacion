@@ -18,7 +18,7 @@ const VistaDexter = () => {
                         <div class="card bg-light row m-1">
                             <div>
                                 <p class="texto text-secondary">My name is Mandark and I am Dexter's rival. He and I have been competing in science and other things for years and this race is just one more of those things where we try to beat each other, except I try to win by being sneaky and bad!</p>
-                                <img className="col-sm-3 rounded float-right" src={img3} alt="mandark" />
+                                <img className="col-sm-3 imagen" src={img3} alt="mandark" />
                             </div>
                         </div>
                         <p className="texto text-primary m-3">Mandark, Dexter's rival</p>
